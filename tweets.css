@@ -1,0 +1,13 @@
+#listTweets {
+	background-color: rgb(192, 190, 190);
+	width: 500px;	
+	word-break: break-all;
+}
+
+body {
+	padding: 15px;
+}
+
+.warning {
+	color: red;
+}

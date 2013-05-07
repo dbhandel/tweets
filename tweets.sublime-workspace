@@ -1,0 +1,610 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ov",
+				"overflow"
+			],
+			[
+				"cl",
+				"clear"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"h",
+				"hover"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "tweets.html",
+			"settings":
+			{
+				"buffer_size": 448,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "tweets.css",
+			"settings":
+			{
+				"buffer_size": 69,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "tweets.js",
+			"settings":
+			{
+				"buffer_size": 562,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 291.0,
+		"selected_items":
+		[
+			[
+				"Snippet: ht",
+				"Snippet: html"
+			],
+			[
+				"Snippet: ",
+				"Snippet: ht"
+			],
+			[
+				"Snippet: h",
+				"Snippet: ht"
+			],
+			[
+				"pc",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"pr",
+				"Package Control: Remove Package"
+			],
+			[
+				"p",
+				"Package Control: Remove Package"
+			],
+			[
+				"pcl",
+				"Package Control: List Packages"
+			],
+			[
+				"pa l",
+				"Package Control: List Packages"
+			],
+			[
+				"pac l",
+				"Package Control: List Packages"
+			],
+			[
+				"pac i	",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Preferences: Browse Packages"
+			],
+			[
+				"pa",
+				"Package Control: List Packages"
+			],
+			[
+				"sn",
+				"Snippet: HTML - HTML foundation"
+			],
+			[
+				"",
+				"Emmet: Expand Abbreviation"
+			],
+			[
+				"snipp",
+				"Snippet: jQuery click handler"
+			],
+			[
+				"snip",
+				"Snippet: Anoynmous Function"
+			],
+			[
+				"sni read",
+				"Snippet: jQuery ready function"
+			],
+			[
+				"snip rea",
+				"Snippet: jQuery ready function"
+			],
+			[
+				"sni",
+				"Snippet: jQuery ready function"
+			],
+			[
+				"get",
+				"Package Control: Install Package"
+			],
+			[
+				"jq",
+				"Snippet: jQuery click handler"
+			],
+			[
+				"pac i",
+				"Package Control: Install Package"
+			],
+			[
+				"ins	",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"pac in",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"fun",
+				"Snippet: Function"
+			],
+			[
+				"ife",
+				"Snippet: if … else"
+			],
+			[
+				"ja",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"snippet:",
+				"Snippet: if … else"
+			],
+			[
+				"side ba",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"readm",
+				"ReadmePlease"
+			],
+			[
+				"lis",
+				"Package Control: List Packages"
+			],
+			[
+				"pac ins",
+				"Package Control: Install Package"
+			],
+			[
+				"pa list",
+				"Package Control: List Packages"
+			],
+			[
+				"pac lis",
+				"Package Control: List Packages"
+			],
+			[
+				"git",
+				"Git: Commit history"
+			],
+			[
+				"pac c",
+				"Package Control: Install Package"
+			],
+			[
+				"subpe",
+				"SublimePeek: Get Help for Function"
+			],
+			[
+				"subpee",
+				"SublimePeek: Get Help for Function"
+			],
+			[
+				"sublpe",
+				"SublimePeek: Get Help for Function"
+			],
+			[
+				"sublp",
+				"SublimePeek: Get Help for Function"
+			],
+			[
+				"syn jS",
+				"Set Syntax: JavaScript"
+			]
+		],
+		"width": 561.0
+	},
+	"console":
+	{
+		"height": 139.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/davidhandel/Desktop/accordion/accordion.css",
+		"/Users/davidhandel/Desktop/accordion/accordion.html",
+		"/Users/davidhandel/Desktop/lesson1/lesson1.html",
+		"/Users/davidhandel/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/davidhandel/Desktop/lesson1/main.js",
+		"/Users/davidhandel/Desktop/lesson1/mainCSS.css",
+		"/Users/davidhandel/Desktop/lesson/responsive.css",
+		"/Users/davidhandel/Desktop/accordion/accordion.js",
+		"/Users/davidhandel/Desktop/accordion/normalize.css",
+		"/Users/davidhandel/Desktop/lesson1/mouseOver.js",
+		"/Users/davidhandel/Desktop/lesson/responsive_design.html",
+		"/Users/davidhandel/Desktop/accordion/accordion.sublime-project",
+		"/Users/davidhandel/Desktop/lesson1/untitled.html",
+		"/Users/davidhandel/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/davidhandel/Library/Application Support/Sublime Text 2/Packages/Package Control/Package Control.sublime-settings",
+		"/Users/davidhandel/Library/Application Support/Sublime Text 2/Packages/Emmet/Emmet.sublime-settings",
+		"/Users/davidhandel/Library/Application Support/Sublime Text 2/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/davidhandel/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/davidhandel/Desktop/quizzer/index.html",
+		"/Users/davidhandel/test.js",
+		"/Users/davidhandel/leaderboard/leaderboard.js",
+		"/Users/davidhandel/leaderboard/leaderboard.css",
+		"/Users/davidhandel/leaderboard/leaderboard.html",
+		"/Users/davidhandel/leaderboard/.meteor/local/build/static_cacheable/packages/spark/convenience.js",
+		"/Users/davidhandel/leaderboard/leaderboard",
+		"/Users/davidhandel/Library/Application Support/Sublime Text 2/Packages/Rails/after_validation_on_update.sublime-snippet",
+		"/Users/davidhandel/WebstormProjects/untitled/routes/index.js",
+		"/Users/davidhandel/Desktop/Ex_Files_UaR_SublimeTxt_2/Exercise Files/roux_website/index.htm",
+		"/Users/davidhandel/Library/Application Support/Sublime Text 2/Packages/SideBarEnhancements/messages/11.13.2012.1305.0.txt",
+		"/Users/davidhandel/Library/Application Support/Sublime Text 2/Packages/Github Tools/README.md",
+		"/Users/davidhandel/Library/Application Support/Sublime Text 2/Packages/Ruby/alias_method-..-(am).sublime-snippet",
+		"/Users/davidhandel/Desktop/roux_website/_scripts/SpryTabbedPanels.js",
+		"/Users/davidhandel/Library/Application Support/Sublime Text 2/Packages/SideBarEnhancements/readme.md",
+		"/Users/davidhandel/Library/Application Support/Sublime Text 2/Packages/PlainTasks/PlainTasks (OSX).sublime-settings",
+		"/Users/davidhandel/Library/Application Support/Sublime Text 2/Packages/Git/README.markdown",
+		"/Users/davidhandel/Desktop/roux_website/_scripts/SpryTabbedPanels.css",
+		"/private/tmp/test.js",
+		"/Users/davidhandel/.rvm/src/rbx-1.13.4/benchmark/core/methods/string/reverse_bang.rb",
+		"/Users/davidhandel/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings--User.json",
+		"/Users/davidhandel/Library/Found/DownloadedData/IMAP/Google/handel_d_gmail_com/Gmail/318890/Google Play Takes on iTunes.doc",
+		"/Users/davidhandel/Library/Application Support/Sublime Text 2/Packages/Git/Git.sublime-settings",
+		"/Users/davidhandel/Library/Application Support/Sublime Text 2/Packages/User/Git.sublime-settings",
+		"/Users/davidhandel/.bash_profile",
+		"/Users/davidhandel/Library/Application Support/Sublime Text 2/Packages/Default/Preferences (Linux).sublime-settings",
+		"/Users/davidhandel/Library/Application Support/Sublime Text 2/Packages/User/Distraction Free.sublime-settings",
+		"/Users/davidhandel/Pictures/iPhoto Library/Database/Albums/trashAlbum.apalbum",
+		"/Users/davidhandel/.rvm/gems/ruby-1.9.2-p290@global/gems/heroku-2.16.2/bin/heroku",
+		"/Users/davidhandel/Library/Application Support/PDFpen/Scripts/Merge Every Other.app/Contents/MacOS/droplet",
+		"/Users/davidhandel/Desktop/rails_tutorial_books/sample_app/spec/requests/static_pages_spec.rb",
+		"/Users/davidhandel/Desktop/rails_tutorial_books/sample_app/app/helpers/application_helper.rb",
+		"/Users/davidhandel/Desktop/rails_tutorial_books/sample_app/app/views/layouts/application.html.erb",
+		"/Users/davidhandel/Desktop/rails_tutorial_books/sample_app/app/views/static_pages/home.html.erb",
+		"/Users/davidhandel/Desktop/rails_tutorial_books/sample_app/app/views/static_pages/help.html.erb",
+		"/Users/davidhandel/Desktop/rails_tutorial_books/sample_app/Gemfile",
+		"/Users/davidhandel/Desktop/rails_tutorial_books/sample_app/tmp/cache/sass/f730261abdba472ad2db40ea7f20fdbffd320fcf/static_pages.css.scssc"
+	],
+	"find":
+	{
+		"height": 44.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"();\n",
+			"panel",
+			"contentOne",
+			"content",
+			"leftW",
+			"leftwid",
+			"}",
+			"{",
+			"outer",
+			"page",
+			"</?p>",
+			"<p class = \".*\">",
+			":;",
+			"position",
+			"rela",
+			" p {",
+			" p ",
+			"topb",
+			"line",
+			"895",
+			"line",
+			"numb",
+			"sideb",
+			"Big",
+			"hahahahah",
+			"Brown",
+			"the",
+			"Brown",
+			"brown",
+			"mouse",
+			"big",
+			"\"\n",
+			"mimimap",
+			"theme"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			""
+		],
+		"reverse": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "tweets.html",
+					"settings":
+					{
+						"buffer_size": 448,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								266,
+								266
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "tweets.css",
+					"settings":
+					{
+						"buffer_size": 69,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								67,
+								67
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "tweets.js",
+					"settings":
+					{
+						"buffer_size": 562,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								501,
+								501
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 50.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 41.0
+	},
+	"output.jsconsole_view":
+	{
+		"height": 0.0
+	},
+	"output.jshint_view":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 204.0
+	},
+	"replace":
+	{
+		"height": 92.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"em",
+				"Package Control Messages"
+			],
+			[
+				"",
+				"/Users/davidhandel/test.js"
+			],
+			[
+				"plaintasks",
+				"Library/Application Support/Sublime Text 2/Packages/PlainTasks/PlainTasks (OSX).sublime-settings"
+			],
+			[
+				"test.js",
+				"test.js"
+			],
+			[
+				".rb",
+				".rvm/src/rbx-1.13.4/benchmark/core/methods/string/reverse_bang.rb"
+			],
+			[
+				"references(linux).sublime-settings",
+				"Library/Application Support/Sublime Text 2/Packages/Default/Preferences (Linux).sublime-settings"
+			],
+			[
+				"user/preferences.sublime-settings",
+				"Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings"
+			],
+			[
+				"trash",
+				"Pictures/iPhoto Library/Database/Albums/trashAlbum.apalbum"
+			],
+			[
+				"drop",
+				"Library/Application Support/PDFpen/Scripts/Merge Every Other.app/Contents/MacOS/droplet"
+			],
+			[
+				"her",
+				".rvm/gems/ruby-1.9.2-p290@global/gems/heroku-2.16.2/bin/heroku"
+			],
+			[
+				"statspe",
+				"spec/requests/static_pages_spec.rb"
+			],
+			[
+				"hom",
+				"app/views/static_pages/home.html.erb"
+			],
+			[
+				"applierb",
+				"app/views/layouts/application.html.erb"
+			],
+			[
+				"applerb",
+				"app/views/layouts/application.html.erb"
+			],
+			[
+				"home",
+				"app/views/static_pages/home.html.erb"
+			],
+			[
+				"applicerb",
+				"app/views/layouts/application.html.erb"
+			],
+			[
+				"help",
+				"app/helpers/application_helper.rb"
+			],
+			[
+				"tmp",
+				"tmp/cache/sass/f730261abdba472ad2db40ea7f20fdbffd320fcf/static_pages.css.scssc"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 161.0,
+	"status_bar_visible": true
+}
